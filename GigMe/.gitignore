@@ -1,7 +1,15 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> caf750d09e1b0a263620452174912c0000a75305
 *.iml
 .gradle
 /local.properties
 /.idea/workspace.xml
+<<<<<<< HEAD
+=======
+/.idea/vcs.xml
+>>>>>>> caf750d09e1b0a263620452174912c0000a75305
 /.idea/libraries
 .DS_Store
 /build
