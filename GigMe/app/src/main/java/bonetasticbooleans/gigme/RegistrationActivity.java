@@ -6,6 +6,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.CheckBox;
 
+import com.google.firebase.database.DatabaseReference;
+
 /**
  * Created by alan on 10/14/17.
  * Represents the activity launched when a user is entering a registration screen
@@ -16,7 +18,7 @@ public class RegistrationActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_registration)
+        setContentView(R.layout.activity_registration);
 
         final String logTag = "RegistrationActivity";
 
